@@ -1,0 +1,3 @@
+Pillow
+ImageHash
+-r ./book_flatten/requirements.txt
