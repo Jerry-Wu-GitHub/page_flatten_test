@@ -10,6 +10,7 @@
 
 ```bash
 git clone https://github.com/Jerry-Wu-GitHub/book_flatten.git
+git submodule update --remote --recursive
 ```
 
 安装依赖：
